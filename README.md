@@ -20,7 +20,7 @@
   </p></div>
   
 
-  ### 📤 Connect Me
+  ### 📤 Let's connect and collaborate!
   <p align="left">
     <a href="mailto:marwa90antoul@gmail.com">
       <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
@@ -55,10 +55,13 @@
 - **Version Control**: GitHub
 - **Methodologies**: Agile Scrum
 
+  ---
 
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marwantoul&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
     <img src="https://streak-stats.demolab.com/?user=marwantoul&theme=highcontrast" height="125"/>
   </p>
+
+    ---
 
 ![Snake Animation](https://github.com/A-Hemeda/A-Hemeda/blob/output/snake-dark.svg)
