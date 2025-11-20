@@ -6,7 +6,7 @@
 <br>
 
   <p align="center">
-    <a href="https://www.google.com.eg/search?q=Ahmed+Hemeda"> <!-- Google Me -->
+    <a href="https://www.google.com.eg/search?q=Marwa.antoul"> <!-- Google Me -->
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates;Check%20my%20Popular%20Repositories&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
   </p>
 
@@ -15,7 +15,7 @@
 </div>
 
  <div align="right"> <p>
-    <a href="https://drive.google.com/file/d/16Yqn5bCJswJjcoJNTJ-NSjEzdIv1hoXG/view?usp=drivesdk">
+    <a href="https://drive.google.com/file/d/1Uv64CsOT8HalxWXuqTAbfFeaBMVRVLbY/view?usp=sharing">
       <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/></a> &nbsp;
   </p></div>
   
