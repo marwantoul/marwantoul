@@ -32,7 +32,7 @@
 - ✅ Functional and automated testing
 - ✅ Complex B2B/B2C projects (Tourism, Banking, SAP E-commerce, Fintech)
 
-💼 Proven experience delivering high-quality solutions for **Banque Zitouna**, **Izi Payment**, **La Poste Tunisienne** and leading tourism platforms.
+💼 Proven experience delivering high-quality solutions for **Banque Zitouna**, **La Poste Tunisienne** and leading tourism platforms.
 
 🌱 Passionate about continuous learning, currently exploring:
 - **CI/CD pipelines**
