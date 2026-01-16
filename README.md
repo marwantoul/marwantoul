@@ -10,10 +10,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=marwantoul.marwantoul&"  />
 </div>
 
- <div align="right"> <p>
-    <a href="https://drive.google.com/file/d/1Uv64CsOT8HalxWXuqTAbfFeaBMVRVLbY/view?usp=sharing">
-      <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/></a> &nbsp;
-  </p></div>
+ 
   
 
   ### 📤 Let's connect and collaborate!
